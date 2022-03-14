@@ -1,0 +1,51 @@
+Algeria,0
+Australia,1
+Austria,2
+Belgium,3
+Brazil,4
+Bulgaria,5
+Canada,6
+Chile,7
+China,8
+Colombia,9
+Cuba,10
+Denmark,11
+Ecuador,12
+Egypt,13
+England,14
+France,15
+Georgia,16
+Germany,17
+Greece,18
+Guatemala,19
+Hong Kong,20
+Hungary,21
+India,22
+Ireland,23
+Israel,24
+Italy,25
+Japan,26
+Lebanon,27
+Malaysia,28
+Mexico,29
+Morocco,30
+New Zealand,31
+Northern Ireland,32
+Oman,33
+Pakistan,34
+Philippines,35
+Puerto Rico,36
+Romania,37
+Russia,38
+Scotland,39
+South Africa,40
+South Korea,41
+Spain,42
+Sweden,43
+Switzerland,44
+U.S,45
+U.S.,45
+Ukraine,47
+United Kingdom,14
+United States,45
+Wales,50
